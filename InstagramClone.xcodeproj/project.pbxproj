@@ -21,6 +21,7 @@
 		B7E07F2727E7B411001D3594 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7E07F2627E7B411001D3594 /* FeedViewController.swift */; };
 		B7E07F2927E7C135001D3594 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7E07F2827E7C135001D3594 /* CameraViewController.swift */; };
 		B7E07F2B27E7CD3F001D3594 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7E07F2A27E7CD3F001D3594 /* PostCell.swift */; };
+		B7F9EB4827EA5FC700FFBB12 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7F9EB4727EA5FC700FFBB12 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		B7E07F2627E7B411001D3594 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		B7E07F2827E7C135001D3594 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		B7E07F2A27E7CD3F001D3594 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		B7F9EB4727EA5FC700FFBB12 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		DE21876D603561FAEBBCD152 /* Pods-InstagramClone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramClone.release.xcconfig"; path = "Target Support Files/Pods-InstagramClone/Pods-InstagramClone.release.xcconfig"; sourceTree = "<group>"; };
 		F6E8D53E0575128651B7EE28 /* Pods_InstagramClone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstagramClone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -129,6 +131,7 @@
 				B7E07EF627E79F43001D3594 /* SceneDelegate.swift */,
 				B7E07EF827E79F43001D3594 /* ViewController.swift */,
 				B7E07EFA27E79F43001D3594 /* Main.storyboard */,
+				B7F9EB4727EA5FC700FFBB12 /* CommentCell.swift */,
 				B7E07F2827E7C135001D3594 /* CameraViewController.swift */,
 				B7E07EFD27E79F45001D3594 /* Assets.xcassets */,
 				B7E07EFF27E79F45001D3594 /* LaunchScreen.storyboard */,
@@ -345,6 +348,7 @@
 				B7E07EF527E79F43001D3594 /* AppDelegate.swift in Sources */,
 				B7E07EF727E79F43001D3594 /* SceneDelegate.swift in Sources */,
 				B7E07F2927E7C135001D3594 /* CameraViewController.swift in Sources */,
+				B7F9EB4827EA5FC700FFBB12 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
